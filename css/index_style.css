@@ -45,11 +45,18 @@ nav .logo
 {
     background: #faf3f1 url(../images/1.png);
 }
-.recipe
+#recipe
 {
     cursor: pointer;
 }
-.recipe img
+#recipe img
 {
     height: 150px !important;
+}
+#recipeDetailsDiv img
+{
+    height: 250px !important;
+}
+#recipeDetailsDiv img .w-100{
+    width: 90%;
 }
